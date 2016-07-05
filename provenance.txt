@@ -1,0 +1,37 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: flask-rest-service-template
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: flask-rest-service-template
+Branch: master
+Path (within repo): 
+sha: 5bae88bcc05a48b6a9085f1d0e59c9d439ee2a8f
+
+
+Parameter values (passed in on template invocation):
+contract='MappedServiceContract:name=PersonFinder,customTypes=com.atomist.contract.mapping.MappedObjectCustomType@467628fd[mappedServiceContract=MappedServiceContract:name=PersonFinder,customTypes=com.atomist.contract.mapping.MappedObjectCustomType@467628fd[mappedServiceContract=com.atomist.contract.mapping.MappedServiceContract@35d688bb,name=Person,description=,_fields=[com.atomist.contract.mapping.MappedCustomTypeField@675624c3[primitiveTypeString=Integer,customType=<null>,name=age,description=,required=false,isArray=false,id=<null>], com.atomist.contract.mapping.MappedCustomTypeField@2c4c3445[primitiveTypeString=String,customType=<null>,name=name,description=,required=false,isArray=false,id=<null>]],_artifactSourceId=<null>,_previous=<null>,timestamp=1467732894928,id=<null>],operations=MappedOperation:name=randomPerson,responses=ResponsePair: code='200',returnType='Person',array=false,parameters=,annotations=,unknownParameters=false,name=Person,description=,_fields=[com.atomist.contract.mapping.MappedCustomTypeField@675624c3[primitiveTypeString=Integer,customType=<null>,name=age,description=,required=false,isArray=false,id=<null>], com.atomist.contract.mapping.MappedCustomTypeField@2c4c3445[primitiveTypeString=String,customType=<null>,name=name,description=,required=false,isArray=false,id=<null>]],_artifactSourceId=<null>,_previous=<null>,timestamp=1467732894928,id=<null>],operations=MappedOperation:name=randomPerson,responses=ResponsePair: code='200',returnType='Person',array=false,parameters=,annotations=,unknownParameters=false'
+description='null'
+interface_name='PersonFinder'
+package_name='mypackage'
+team-id='T1KHULA3E'
+name='extractedservice1'
+repository_url='myrepourl'
+template='flask-rest-service-template'
+user-id='U1KGQ9YGK'
+author='russmiles'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+author_email='russ@russmiles.com'
+repo='extract-microservice-source'
+version='0.0.1'
+artifact_id='extractedservice1'
+visibility='public'
+owner='jackietreehornpublishing'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+creation_date='2016-07-05'
